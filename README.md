@@ -1,7 +1,7 @@
 # Minecraft 账户验证系统
 
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-GPL--3.0-green)
+![License]([https://img.shields.io/badge/license-GPL--3.0-green](https://www.gnu.org/graphics/gplv3-rounded-red-180x60.jpg))
 
 本工具用于批量验证 Minecraft 账户有效性，支持 Mojang 和 OptiFine 双平台验证，提供代理支持和可视化操作界面。
 
